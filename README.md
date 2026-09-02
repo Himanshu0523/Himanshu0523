@@ -39,12 +39,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 [Project Name One](https://github.com/Himanshu0523)
-Short outcome-driven description — what it does and why it matters (e.g. "Full-stack job tracker with JWT auth, serving 500+ mock users, deployed on Netlify + Render").
+### 🔹 [Pulse Platform](https://github.com/Himanshu0523/Pulse-Platform)
+High-performance real-time collaboration ecosystem featuring sub-100ms multi-party WebRTC video conferencing via a native C++ Mediasoup SFU, client-side E2EE messaging, and a shared whiteboard.
 
-`React` `Node.js` `MongoDB` `JWT`
+`React 18` `Node.js` `Express` `C++` `WebRTC` `Mediasoup` `Socket.IO` `Redis`
 
-[Live Demo](#) · [Source Code](#)
+[Live Demo](https://private-pulse-platform.vercel.app/) · [Source Code](https://github.com/Himanshu0523/Pulse-Platform)
 
 </td>
 <td width="50%" valign="top">
