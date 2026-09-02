@@ -51,7 +51,7 @@
 <sub>Real-time collaboration infrastructure</sub>
 
 ```diff
-+ Sub-100ms multi-party video via native C++ Mediasoup SFU
++ Low-latency multi-party video via a native C++ Mediasoup SFU
 + Client-side E2EE messaging + shared whiteboard sync
 + Redis-backed Socket.IO signaling for horizontal scale
 ```
@@ -92,7 +92,7 @@
 
 <img src="https://img.shields.io/badge/-Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi"/> <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square"/>
 
-**[🚀 Deploys](https://github.com/Himanshu0523/Enterprise-AI-Commerce-Intelligence-Platform-v2/deployments) · [📦 Code](https://github.com/Himanshu0523/Enterprise-AI-Commerce-Intelligence-Platform-v2)**
+**[📦 Code](https://github.com/Himanshu0523/Enterprise-AI-Commerce-Intelligence-Platform-v2)** &nbsp;·&nbsp; <sub>demo video coming soon</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -108,7 +108,7 @@
 
 <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
-**[📦 Code](https://github.com/Himanshu0523/Nexus-Knowledge)**
+**[📦 Code](https://github.com/Himanshu0523/Nexus-Knowledge)** &nbsp;·&nbsp; <sub>demo video coming soon</sub>
 
 </td>
 </tr>
