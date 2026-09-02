@@ -49,34 +49,34 @@ High-performance real-time collaboration ecosystem featuring sub-100ms multi-par
 </td>
 <td width="50%" valign="top">
 
-### 🔹 [Project Name Two](https://github.com/Himanshu0523)
-Short outcome-driven description — highlight a metric, a technical challenge solved, or scale (e.g. "ML model achieving 92% accuracy on classification task using Scikit-learn").
+### 🔹 [ZeroGuard](https://github.com/Himanshu0523/ZeroGuard-)
+Zero-Trust API security scanner detecting OWASP API Top 10 vulnerabilities via tree-sitter AST parsing, security graph intermediate representation, and intra-procedural taint analysis with automated inline remediation.
 
-`Python` `Scikit-learn` `Pandas` `FastAPI`
+`TypeScript` `Node.js` `Express` `NestJS` `LSP` `VS Code` `Turborepo` `Docker`
 
-[Live Demo](#) · [Source Code](#)
+[Live Demo](#) · [Source Code](https://github.com/Himanshu0523/ZeroGuard-)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 [Project Name Three](https://github.com/Himanshu0523)
-Short outcome-driven description — every project bullet should answer "so what?" for a recruiter skimming in 6 seconds.
+### 🔹 [Enterprise AI Commerce Intelligence Platform v2](https://github.com/Himanshu0523/Enterprise-AI-Commerce-Intelligence-Platform-v2)
+Full-stack, distributed microservices e-commerce ecosystem featuring real-time RAG pipelines, autonomous AI shopping agents, demand forecasting, dynamic pricing, and an algorithmic lock-free Redis inventory allocator.
 
-`Express` `MongoDB` `REST API`
+`Next.js 14` `Node.js` `Express` `Python` `FastAPI` `Kafka` `MongoDB` `MySQL` `Redis` `Qdrant` `Docker`
 
-[Live Demo](#) · [Source Code](#)
+[Live Demo](https://github.com/Himanshu0523/Enterprise-AI-Commerce-Intelligence-Platform-v2/deployments) · [Source Code](https://github.com/Himanshu0523/Enterprise-AI-Commerce-Intelligence-Platform-v2)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 [Project Name Four](https://github.com/Himanshu0523)
-Short outcome-driven description — link real repos here; pin the same ones on your GitHub profile for consistency.
+### 🔹 [Nexus Knowledge](https://github.com/Himanshu0523/Nexus-Knowledge)
+Enterprise multi-tenant conversational AI platform with RAG, autonomous tool execution, and an event-driven microservices architecture using Apache Kafka, Qdrant, PostgreSQL, and Redis.
 
-`C++` `DSA` `System Design`
+`React 18` `Node.js` `Express` `Python` `Kafka` `Qdrant` `PostgreSQL` `Redis`
 
-[Live Demo](#) · [Source Code](#)
+[Live Demo](#) · [Source Code](https://github.com/Himanshu0523/Nexus-Knowledge)
 
 </td>
 </tr>
