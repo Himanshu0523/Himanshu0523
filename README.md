@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D3E,100:0D1117&height=200&section=header&text=&fontSize=0" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=750&height=40&lines=%24+whoami;Himanshu+Satpute;Backend+%26+Distributed+Systems+Engineer;%24+status+--current;Building+RAG+pipelines+%2B+event-driven+microservices" alt="Terminal Typing" />
@@ -8,7 +7,93 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1500&color=00D9FF&center=true&vCenter=true&width=650&height=30&lines=1952+Rated+%C2%B7+LeetCode+Knight+%E2%99%9E%EF%B8%8F+%C2%B7+Top+3%25+Global;Kafka+%C2%B7+Redis+%C2%B7+Qdrant+%C2%B7+WebRTC+%C2%B7+RAG+Agents;Open+to+SDE+%2F+Backend+%2F+AI-ML+Roles" alt="Subtitle Typing" />
 
-<br/><br/>
+</div>
+
+<br/>
+
+## `$ cat about.md`
+
+- 🛠️ Full-stack engineer on the **MERN + Next.js** stack, with a backend-first mindset
+- 🧠 Deep interest in **system design** — distributed systems, event-driven architecture, scalability trade-offs
+- 🤖 Building **RAG pipelines** and AI agents on top of vector search (Qdrant) and LLM tooling
+- 🧩 Problem solver at heart — **1952 rated, LeetCode Knight, Top 3% global**
+- 🌱 Active **open-source contributor**
+- 📡 Comfortable across the stack: **Kafka · Redis · Qdrant · WebRTC**
+
+<br/>
+
+## `$ ls tech-stack/`
+
+<div align="center">
+
+**Languages & Runtime**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" />
+
+**Data & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,kafka,docker,kubernetes,aws" />
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
+
+</div>
+
+<br/>
+
+## `$ status --current`
+
+```
+> Building event-driven microservices with Kafka
+> Designing RAG pipelines for production-scale retrieval
+> Contributing to open-source backend / infra projects
+> Solving DSA problems daily — grinding toward Guardian
+```
+
+<br/>
+
+## `$ stats --github`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00D9FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=00D9FF&currStreakLabel=39FF14" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
+
+</div>
+
+<br/>
+
+## `$ connect --socials`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D3E,100:0D1117&height=100&section=footer" width="100%"/>
 
 <a href="https://www.linkedin.com/in/himanshu-satpute-b98282299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
 <a href="mailto:himanshusatpute7@gmail.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
