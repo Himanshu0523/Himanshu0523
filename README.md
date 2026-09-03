@@ -1,99 +1,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D3E,100:0D1117&height=200&section=header&text=&fontSize=0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=750&height=40&lines=%24+whoami;Himanshu+Satpute;Backend+%26+Distributed+Systems+Engineer;%24+status+--current;Building+RAG+pipelines+%2B+event-driven+microservices" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=750&height=50&lines=%24+whoami;Himanshu+Satpute;SQL+%26+MongoDB+Expert;Learning+Qdrant+%2B+WebRTC;Building+RAG+pipelines+%2B+event-driven+microservices" alt="Terminal Typing" />
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1500&color=00D9FF&center=true&vCenter=true&width=650&height=30&lines=1952+Rated+%C2%B7+LeetCode+Knight+%E2%99%9E%EF%B8%8F+%C2%B7+Top+3%25+Global;Kafka+%C2%B7+Redis+%C2%B7+Qdrant+%C2%B7+WebRTC+%C2%B7+RAG+Agents;Open+to+SDE+%2F+Backend+%2F+AI-ML+Roles" alt="Subtitle Typing" />
 
-</div>
-
 <br/>
-
-## `$ cat about.md`
-
-- 🛠️ Full-stack engineer on the **MERN + Next.js** stack, with a backend-first mindset
-- 🧠 Deep interest in **system design** — distributed systems, event-driven architecture, scalability trade-offs
-- 🤖 Building **RAG pipelines** and AI agents on top of vector search (Qdrant) and LLM tooling
-- 🧩 Problem solver at heart — **1952 rated, LeetCode Knight, Top 3% global**
-- 🌱 Active **open-source contributor**
-- 📡 Comfortable across the stack: **Kafka · Redis · Qdrant · WebRTC**
-
-<br/>
-
-## `$ ls tech-stack/`
-
-<div align="center">
-
-**Languages & Runtime**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" />
-
-**Data & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,kafka,docker,kubernetes,aws" />
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
-
-</div>
-
-<br/>
-
-## `$ status --current`
-
-```
-> Building event-driven microservices with Kafka
-> Designing RAG pipelines for production-scale retrieval
-> Contributing to open-source backend / infra projects
-> Solving DSA problems daily — grinding toward Guardian
-```
-
-<br/>
-
-## `$ stats --github`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00D9FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=00D9FF&currStreakLabel=39FF14" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
-
-</div>
-
-<br/>
-
-## `$ connect --socials`
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D3E,100:0D1117&height=100&section=footer" width="100%"/>
 
 <a href="https://www.linkedin.com/in/himanshu-satpute-b98282299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
 <a href="mailto:himanshusatpute7@gmail.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
@@ -103,7 +17,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Himanshu0523&label=visitors&color=0F3D3E&style=for-the-badge" />
-
 </div>
 
 <br/>
@@ -114,13 +27,13 @@
 
 ## `$ cat about.md`
 
-> Distributed-systems-leaning engineer who builds **event-driven microservices, RAG pipelines, and real-time infra** — not tutorial CRUD apps. Backed by a **1952-rated LeetCode profile (Knight, top ~3% globally)**. Currently hunting for **SDE / Backend / AI-ML** roles where correctness *and* scale both matter.
+> Backend-focused engineer specializing in **SQL, MongoDB ,microservices, and RAG pipelines**.**. Backed by a **1952-rated LeetCode profile (Knight, top ~3% globally)**, actively seeking **SDE / Backend / AI-ML** roles.
 
 <div align="center">
 
 | 🧩 Systems Shipped | 🧠 LeetCode Rating | 🌍 Global Rank | ♞ Badge | 🤖 Focus |
 |:---:|:---:|:---:|:---:|:---:|
-| **4** | **1952** | **Top 3%** | **Knight** | **RAG / Agents** |
+| **4** | **1952** | **Top 3%** | **Knight** | **Backend / RAG** |
 
 </div>
 
@@ -136,12 +49,12 @@
 <sub>Real-time collaboration infrastructure</sub>
 
 ```diff
-+ Low-latency multi-party video via a native C++ Mediasoup SFU
++ Multi-party video signaling via Socket.IO & WebRTC architecture
 + Client-side E2EE messaging + shared whiteboard sync
-+ Redis-backed Socket.IO signaling for horizontal scale
++ Redis-backed signaling for horizontal scale
 ```
 
-<img src="https://img.shields.io/badge/-React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
 **[▶ Live](https://private-pulse-platform.vercel.app/) · [📦 Code](https://github.com/Himanshu0523/Pulse-Platform)**
 
@@ -170,7 +83,7 @@
 <sub>Distributed microservices e-commerce ecosystem</sub>
 
 ```diff
-+ Real-time RAG pipelines + autonomous shopping agents
++ Real-time RAG pipelines + dynamic indexing with Qdrant
 + Demand forecasting & dynamic pricing engines
 + Lock-free Redis inventory allocator for checkout concurrency
 ```
@@ -188,7 +101,7 @@
 ```diff
 + RAG + autonomous tool execution for enterprise knowledge
 + Event-driven microservices on Apache Kafka
-+ Vector search via Qdrant, tenant isolation on PostgreSQL
++ Optimized search queries using PostgreSQL & Redis caching
 ```
 
 <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -205,7 +118,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,ts,js,py,mysql&theme=dark" /><br/><sub>Languages</sub>
+<img src="https://skillicons.dev/icons?i=js,ts,py,mysql,java&theme=dark" /><br/><sub>Languages & SQL</sub>
 
 <br/><br/>
 
@@ -213,7 +126,9 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,pytorch,sklearn&theme=dark" /><br/><sub>Data & AI</sub>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,pytorch,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+<br/><sub>Data, Databases & AI</sub>
 
 <br/><br/>
 
@@ -228,8 +143,8 @@
 ```yaml
 data_structures: [Arrays, Trees, Graphs, Linked Lists]
 algorithms: [Dynamic Programming, Recursion, Backtracking]
-system_design: [Event-driven architecture, Caching, Sharding]
-optimization: Time & Space complexity at scale
+system_design: [Event-driven architecture, Caching, Sharding, Database Indexing]
+learning_focus: [Qdrant vector search, WebRTC low-latency streaming, advanced SQL tuning]
 ```
 
 </details>
@@ -255,20 +170,20 @@ optimization: Time & Space complexity at scale
   <img src="https://leetcard.jacoblin.cool/_Master_HS?theme=dark&font=baloo&ext=contest"/>
 </a>
 
-</div>
-
-<sub align="center">⚡ every widget above is server-rendered on each page load — stats, streaks, the snake, and the activity graph all refresh automatically, no manual updates needed.</sub>
-
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/four-frame.gif" width="100%">
+<sub>⚡ every widget above is server-rendered on each page load — stats, streaks, the snake, and the activity graph all refresh automatically, no manual updates needed.</sub>
+
+</div>
+
+<br/>
 
 ## `$ tail -f current-status.log`
 
 ```yaml
 right_now:
-  - Deepening distributed-systems depth (Kafka, Redis, Qdrant, service meshes)
-  - Shipping AI systems from notebook → deployed agentic production APIs
+  - Mastering SQL database tuning & MongoDB performance optimization
+  - Deepening real-time and vector infrastructure skills (Qdrant, WebRTC, Kafka)
   - Open to SDE / Backend / AI-ML internships & full-time roles
 contact: himanshusatpute7@gmail.com
 ```
