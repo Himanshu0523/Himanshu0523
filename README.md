@@ -1,30 +1,19 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D3E,100:0D1117&height=200&section=header&text=&fontSize=0" width="100%"/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=750&height=50&lines=MERN+Stack+Developer;Hey%2C+I'm+Himanshu+Satpute;Problem+Solver+|+Open+Source+Contributor)](https://git.io/typing-svg)
-
 <br/>
-
-<br/>
-
 <a href="https://www.linkedin.com/in/himanshu-satpute-b98282299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
 <a href="mailto:himanshusatpute7@gmail.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 <a href="https://leetcode.com/u/_Master_HS/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://github.com/Himanshu0523" target="_blank"><img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=000000"/></a>
-
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=Himanshu0523&label=visitors&color=0F3D3E&style=for-the-badge" />
 </div>
-
 <br/>
-
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/rocket_out_of_the_screen.gif" width="100%">
-
 <br/>
-
 ## `$ cat about.md`
 
 > Backend-focused engineer specializing in **SQL, MongoDB ,microservices, and RAG pipelines**.**. Backed by a **1952-rated LeetCode profile (Knight, top ~3% globally)**, actively seeking **SDE / Backend / AI-ML** roles.
@@ -34,9 +23,7 @@
 | 🧩 Systems Shipped | 🧠 LeetCode Rating | 🌍 Global Rank | ♞ Badge | 🤖 Focus |
 |:---:|:---:|:---:|:---:|:---:|
 | **4** | **1952** | **Top 3%** | **Knight** | **Backend / RAG** |
-
 </div>
-
 <br/>
 
 ## `$ ls ./featured-projects`
