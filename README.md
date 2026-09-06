@@ -20,9 +20,9 @@
 
 <div align="center">
 
-| 🧩 Systems Shipped | 🧠 LeetCode Rating | 🌍 Global Rank | ♞ Badge | 🤖 Focus |
-|:---:|:---:|:---:|:---:|:---:|
-| **4** | **1952** | **Top 3%** | **Knight** | **Backend / RAG** |
+| 🧠 LeetCode Rating | 🌍 Global Rank | ♞ Badge | 🤖 Focus |
+|:---:|:---:|:---:|:---:|
+| **1952** | **Top 3%** | **Knight** | **Backend / RAG** |
 </div>
 <br/>
 
