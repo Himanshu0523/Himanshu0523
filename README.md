@@ -158,9 +158,6 @@ learning_focus: [Qdrant vector search, low-latency streaming, advanced SQL tunin
 </a>
 
 <br/><br/>
-
-<sub>⚡ every widget above is server-rendered on each page load — stats, streaks, the snake, and the activity graph all refresh automatically, no manual updates needed.</sub>
-
 </div>
 
 <br/>
