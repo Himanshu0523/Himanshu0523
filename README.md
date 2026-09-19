@@ -14,9 +14,10 @@
 <br/>
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/rocket_out_of_the_screen.gif" width="100%">
 <br/>
+
 ## `$ cat about.md`
 
-> Backend-focused engineer specializing in **SQL, MongoDB ,microservices, and RAG pipelines**.**. Backed by a **1952-rated LeetCode profile (Knight, top ~3% globally)**, actively seeking **SDE / Backend / AI-ML** roles.
+> Backend-focused engineer specializing in **SQL, MongoDB ,microservices, and RAG pipelines**. Backed by a **1952-rated LeetCode profile (Knight, top ~3% globally)**, actively seeking **SDE / Backend / AI-ML** roles.
 
 <div align="center">
 
@@ -163,14 +164,37 @@ learning_focus: [Qdrant vector search, low-latency streaming, advanced SQL tunin
 <br/>
 
 ## `$ tail -f current-status.log`
+<div align="left">
+  
+  ```diff
+@@ SYSTEM STATUS · LIVE @@
 
-```yaml
-right_now:
-  - Mastering SQL database tuning & MongoDB performance optimization
-  - Deepening real-time and vector infrastructure skills (Qdrant, Kafka)
-  - Open to SDE / Backend / AI-ML internships & full-time roles
-contact: himanshusatpute7@gmail.com
++ [ACTIVE]   DATABASE ENGINEERING
+  ├─ SQL       Query tuning · Indexing · Execution plans
+  └─ MongoDB   Profiling · Aggregation · Schema optimization
+
++ [ACTIVE]   DISTRIBUTED SYSTEMS
+  ├─ Kafka     Event streaming · Message processing
+  └─ Redis     Caching · Queues · Real-time state
+
++ [ACTIVE]   AI INFRASTRUCTURE
+  ├─ Qdrant    Vector search · Retrieval
+  └─ RAG       Pipelines · Agent infrastructure
+
++ [BUILDING]  ENTERPRISE BACKEND
+  └─ Multi-tenant · AI/ML systems
+
+@@ OPEN TO WORK @@
+  ├─ SDE · Backend · AI/ML internships & full-time roles
+  └─ himanshusatpute7@gmail.com
 ```
+
+</div>
+
+<div align="center">
+<a href="mailto:himanshusatpute7@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39FF14?style=for-the-badge&labelColor=0D1117"/></a>
+</div>
+
 
 <div align="center">
 <br/>
