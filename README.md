@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D3E,100:0D1117&height=200&section=header&text=&fontSize=0" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D3E,100:0D1117&height=200&section=header&text=&fontSize=0" width="100%"/> -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=750&height=50&lines=MERN+Stack+Developer;Hey%2C+I'm+Himanshu+Satpute;Problem+Solver+|+Open+Source+Contributor)](https://git.io/typing-svg)
@@ -28,7 +28,6 @@
 <br/>
 
 ## `$ ls ./featured-projects`
-
 <table>
 <tr>
 <td width="50%" valign="top">
