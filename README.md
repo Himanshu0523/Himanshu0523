@@ -49,7 +49,7 @@
 <td width="50%" valign="top">
 
 ### 🛡️ [ZeroGuard](https://github.com/Himanshu0523/ZeroGuard-)
-<sub>Zero-trust API security scanner</sub>
+<sub>Zero-trust API security scanner (VS-CODE - Extension)</sub>
 
 ```diff
 + Detects OWASP API Top 10 via tree-sitter AST parsing
