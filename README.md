@@ -33,7 +33,7 @@
 <td width="50%" valign="top">
 
 ### 🎥 [Pulse Platform](https://github.com/Himanshu0523/Pulse-Platform)
-<sub>Real-time collaboration infrastructure</sub>
+<sub>Real-time collaboration platform with WebRTC communication, Redis presence, and synchronized workspace state.</sub>
 
 ```diff
 + Multi-party video signaling via Socket.IO & WebRTC architecture
@@ -49,7 +49,7 @@
 <td width="50%" valign="top">
 
 ### 🛡️ [ZeroGuard](https://github.com/Himanshu0523/ZeroGuard-)
-<sub>Zero-trust API security scanner (VS-CODE - Extension)</sub>
+<sub>Zero-trust API security scanner (VS Code security extension that detects unsafe data flows using AST-based static analysis).</sub>
 
 ```diff
 + Detects OWASP API Top 10 via tree-sitter AST parsing
@@ -67,7 +67,7 @@
 <td width="50%" valign="top">
 
 ### 🛒 [Enterprise AI Commerce Platform](https://github.com/Himanshu0523/Enterprise-AI-Commerce-Intelligence-Platform-v2)
-<sub>Distributed microservices e-commerce ecosystem</sub>
+<sub>AI-assisted commerce platform with product retrieval, dynamic pricing, and event-driven inventory management.</sub>
 
 ```diff
 + Real-time RAG pipelines + dynamic indexing with Qdrant
@@ -83,7 +83,8 @@
 <td width="50%" valign="top">
 
 ### 🧠 [Nexus Knowledge](https://github.com/Himanshu0523/Nexus-Knowledge)
-<sub>Multi-tenant conversational AI platform</sub>
+<sub>Multi-tenant knowledge platform with asynchronous document processing and RAG-based search.
+</sub>
 
 ```diff
 + RAG + autonomous tool execution for enterprise knowledge
