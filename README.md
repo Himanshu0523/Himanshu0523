@@ -32,79 +32,15 @@
 <br/>
 
 ## `$ ls ./featured-projects`
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🎥 [Pulse Platform](https://github.com/Himanshu0523/Pulse-Platform)
-<sub>Real-time collaboration platform with WebRTC communication, Redis presence, and synchronized workspace state.</sub>
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| 🎥 **Pulse Platform** | Real-time collaboration platform with WebRTC communication, Redis presence, and synchronized workspace state. | React 18, Socket.IO, WebRTC, Redis | [Live](https://private-pulse-platform.vercel.app/) · [Code](https://github.com/Himanshu0523/Pulse-Platform) |
+| 🛡️ **ZeroGuard** | Zero-trust API security scanner — VS Code extension that detects unsafe data flows via AST-based static analysis. | TypeScript, NestJS, LSP, Docker | [Code](https://github.com/Himanshu0523/ZeroGuard-) |
+| 🛒 **Enterprise AI Commerce Platform** | AI-assisted commerce platform with product retrieval, dynamic pricing, and event-driven inventory management. | Next.js 14, FastAPI, Kafka, Qdrant | [Code](https://github.com/Himanshu0523/Enterprise-AI-Commerce-Intelligence-Platform-v2) |
+| 🧠 **Nexus Knowledge** | Multi-tenant knowledge platform with asynchronous document processing and RAG-based search. | Python, Kafka, PostgreSQL, Redis | [Code](https://github.com/Himanshu0523/Nexus-Knowledge) |
 
-```diff
-+ Multi-party video signaling via Socket.IO & WebRTC architecture
-+ Client-side E2EE messaging + shared whiteboard sync
-+ Redis-backed signaling for horizontal scale
-```
 
-<img src="https://img.shields.io/badge/-React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-
-**[▶ Live](https://private-pulse-platform.vercel.app/) · [📦 Code](https://github.com/Himanshu0523/Pulse-Platform)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [ZeroGuard](https://github.com/Himanshu0523/ZeroGuard-)
-<sub>Zero-trust API security scanner (VS Code security extension that detects unsafe data flows using AST-based static analysis).</sub>
-
-```diff
-+ Detects OWASP API Top 10 via tree-sitter AST parsing
-+ Custom security-graph IR + taint analysis engine
-+ Automated inline remediation, not just findings
-```
-
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/-LSP-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
-
-**[📦 Code](https://github.com/Himanshu0523/ZeroGuard-)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [Enterprise AI Commerce Platform](https://github.com/Himanshu0523/Enterprise-AI-Commerce-Intelligence-Platform-v2)
-<sub>AI-assisted commerce platform with product retrieval, dynamic pricing, and event-driven inventory management.</sub>
-
-```diff
-+ Real-time RAG pipelines + dynamic indexing with Qdrant
-+ Demand forecasting & dynamic pricing engines
-+ Lock-free Redis inventory allocator for checkout concurrency
-```
-
-<img src="https://img.shields.io/badge/-Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi"/> <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square"/>
-
-**[📦 Code](https://github.com/Himanshu0523/Enterprise-AI-Commerce-Intelligence-Platform-v2)** &nbsp;·&nbsp; <sub>demo video coming soon</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [Nexus Knowledge](https://github.com/Himanshu0523/Nexus-Knowledge)
-<sub>Multi-tenant knowledge platform with asynchronous document processing and RAG-based search.
-</sub>
-
-```diff
-+ RAG + autonomous tool execution for enterprise knowledge
-+ Event-driven microservices on Apache Kafka
-+ Optimized search queries using PostgreSQL & Redis caching
-```
-
-<img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-
-**[📦 Code](https://github.com/Himanshu0523/Nexus-Knowledge)** &nbsp;·&nbsp; <sub>demo video coming soon</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## `$ cat tech-stack.json`
 
