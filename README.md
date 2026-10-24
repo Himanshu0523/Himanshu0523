@@ -10,14 +10,13 @@
 <a href="mailto:himanshusatpute7@gmail.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 <a href="https://leetcode.com/u/_Master_HS/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://github.com/Himanshu0523" target="_blank"><img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=000000"/></a>
-</div>
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/rocket_out_of_the_screen.gif" width="100%">
-<div align="center">
-  <a href="https://www.kaggle.com/himan777" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://huggingface.co/himan7" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-  <a href="https://gitlab.com/Himanshu_HS" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+<a href="https://www.kaggle.com/himan777" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://huggingface.co/himan7" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://gitlab.com/Himanshu_HS" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Himanshu0523&label=visitors&color=0F3D3E&style=for-the-badge" />
-</div>
+
+<br/>
 
 ## `$ cat about.md`
 
@@ -30,6 +29,8 @@
 | **1952** | **Top 3%** | **Knight** | **Backend / RAG** |
 </div>
 <br/>
+<br/>
+
 
 ## `$ ls ./featured-projects`
 
@@ -41,32 +42,30 @@
 | 🧠 **Nexus Knowledge** | Multi-tenant knowledge platform with asynchronous document processing and RAG-based search. | Python, Kafka, PostgreSQL, Redis | [Code](https://github.com/Himanshu0523/Nexus-Knowledge) |
 
 
+<br/>
 
 ## `$ cat tech-stack.json`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,mysql,java&theme=dark" /><br/><sub>Languages & SQL</sub>
+### Languages & SQL<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,mysql,java&theme=dark" /><br/>
 
-<br/><br/>
+### Backend & Infra 
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,kafka,docker&theme=dark" /><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,kafka,docker&theme=dark" /><br/><sub>Backend & Infra</sub>
-
-<br/><br/>
-
+### Data, Databases & AI
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,pytorch,sklearn&theme=dark" />
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
-<br/><sub>Data, Databases & AI</sub>
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" /><br/><sub>Frontend</sub>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" /><br/>
 
 </div>
 
-<details>
-<summary><b>🧩 expand: core-cs.log</b></summary>
 <br/>
+<details>
+### $expand: core-cs.log
 
 ```yaml
 data_structures: [Arrays, Trees, Graphs, Linked Lists]
@@ -74,8 +73,8 @@ algorithms: [Dynamic Programming, Recursion, Backtracking]
 system_design: [Event-driven architecture, Caching, Sharding, Database Indexing]
 learning_focus: [Qdrant vector search, low-latency streaming, advanced SQL tuning]
 ```
-
 </details>
+
 
 <br/>
 
