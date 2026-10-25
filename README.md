@@ -26,7 +26,7 @@
 
 | 🧠 LeetCode Rating | 🌍 Global Rank | ♞ Badge | 🤖 Focus |
 |:---:|:---:|:---:|:---:|
-| **1952** | **Top 3%** | **Knight** | **Backend / RAG** |
+| **1999** | **Top 3%** | **Knight** | **Backend / RAG** |
 </div>
 <br/>
 <br/>
