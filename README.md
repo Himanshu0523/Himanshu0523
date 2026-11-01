@@ -20,7 +20,10 @@
 
 ## `$ cat about.md`
 
-> Backend-focused engineer specializing in **SQL, MongoDB ,microservices, and RAG pipelines**. Backed by a **1952-rated LeetCode profile (Knight, top ~3% globally)**, actively seeking **SDE / Backend / AI-ML** roles.
+> Backend-focused engineer building **event-driven systems, real-time platforms and RAG pipelines** with SQL, MongoDB, Redis, Kafka and Qdrant.
+
+🎓 B.Tech <BRANCH>, <GRAD YEAR> &nbsp;·&nbsp; ♞ LeetCode Knight &nbsp;·&nbsp; 💼 Seeking SDE / Backend / AI-ML roles
+
 
 <div align="center">
 
@@ -65,14 +68,15 @@
 
 <br/>
 <details>
-### $expand: core-cs.log
+<summary><b>Core CS and currently learning</b></summary>
 
 ```yaml
 data_structures: [Arrays, Trees, Graphs, Linked Lists]
 algorithms: [Dynamic Programming, Recursion, Backtracking]
-system_design: [Event-driven architecture, Caching, Sharding, Database Indexing]
-learning_focus: [Qdrant vector search, low-latency streaming, advanced SQL tuning]
+system_design: [Event-driven architecture, Caching, Sharding, Indexing]
+learning: [Qdrant vector search, low-latency streaming, advanced SQL tuning]
 ```
+
 </details>
 
 
@@ -103,44 +107,21 @@ learning_focus: [Qdrant vector search, low-latency streaming, advanced SQL tunin
 <br/>
 
 ## `$ tail -f current-status.log`
-<div align="left">
-  
-  ```diff
-@@ SYSTEM STATUS · LIVE @@
 
-+ [ACTIVE]   DATABASE ENGINEERING
-  ├─ SQL       Query tuning · Indexing · Execution plans
-  └─ MongoDB   Profiling · Aggregation · Schema optimization
+```diff
++ [ACTIVE]   DATABASE ENGINEERING   SQL tuning · MongoDB profiling · indexing
++ [ACTIVE]   DISTRIBUTED SYSTEMS    Kafka streaming · Redis caching and real-time state
++ [ACTIVE]   AI INFRASTRUCTURE      Qdrant · RAG pipelines · agent infra
++ [BUILDING] Multi-tenant enterprise backend
 
-+ [ACTIVE]   DISTRIBUTED SYSTEMS
-  ├─ Kafka     Event streaming · Message processing
-  └─ Redis     Caching · Queues · Real-time state
-
-+ [ACTIVE]   AI INFRASTRUCTURE
-  ├─ Qdrant    Vector search · Retrieval
-  └─ RAG       Pipelines · Agent infrastructure
-
-+ [BUILDING]  ENTERPRISE BACKEND
-  └─ Multi-tenant · AI/ML systems
-
-@@ OPEN TO WORK @@
-  ├─ SDE · Backend · AI/ML internships & full-time roles
-  └─ himanshusatpute7@gmail.com
+@@ OPEN TO WORK: SDE · Backend · AI/ML (internship and full-time) @@
 ```
 
-</div>
-
 <div align="center">
+
 <a href="mailto:himanshusatpute7@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39FF14?style=for-the-badge&labelColor=0D1117"/></a>
-</div>
 
-
-<div align="center">
-<br/>
-
-<sub>thanks for reading this far — rarer than solving a LeetCode hard on the first try 🚀</sub>
-
-<br/><br/>
+<sub>thanks for reading this far, rarer than solving a LeetCode hard on the first try 🚀</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D3E,100:0D1117&height=120&section=footer" width="100%"/>
 
