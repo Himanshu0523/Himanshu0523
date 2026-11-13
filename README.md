@@ -6,9 +6,9 @@
 <a href="mailto:himanshusatpute7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 <a href="https://leetcode.com/u/_Master_HS/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://github.com/Himanshu0523" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=000000"/></a>
-<a href="https://www.kaggle.com/himan777" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<!-- <a href="https://www.kaggle.com/himan777" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://huggingface.co/himan7" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-<a href="https://gitlab.com/Himanshu_HS" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+<a href="https://gitlab.com/Himanshu_HS" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a> -->
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Himanshu0523&label=visitors&color=0F3D3E&style=for-the-badge" />
 
 <br/><br/>
