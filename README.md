@@ -21,13 +21,13 @@
 
 > Backend-focused engineer building **event-driven systems, real-time platforms and RAG pipelines** with SQL, MongoDB, Redis, Kafka and Qdrant.
 
-🎓 B.Tech [YOUR BRANCH], [GRAD YEAR] &nbsp;·&nbsp; ♞ LeetCode Knight &nbsp;·&nbsp; 💼 Seeking SDE / Backend / AI-ML roles
+🎓 B.Tech [CSE-AIML], [2027] &nbsp; · &nbsp; ♞ LeetCode Guardian &nbsp; · &nbsp; 💼 Seeking SDE / Backend / AI-ML roles
 
 <div align="center">
 
 | 🧠 LeetCode Rating | 🌍 Global Rank | ♞ Badge | 🤖 Focus |
 |:---:|:---:|:---:|:---:|
-| **1999** | **Top 3%** | **Knight** | **Backend / RAG** |
+| **2125** | **Top 1.4%** | **Guardian** | **Backend / AI / GenAI** |
 
 </div>
 
